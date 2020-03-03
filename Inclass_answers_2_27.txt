@@ -1,0 +1,32 @@
+Organizing files
+1. False
+2. False
+3. False
+4. Advanatge: Shorter, easier to move project
+	Risk: link can break silently
+
+5. <a> tag, <img> tag, 
+
+HTML basics
+1. metadata
+2. <!--comment-->
+3. False - trick question
+4. True
+5. <title>, character set
+
+Image Basics
+1. True
+2. False
+	-ext: use defualt other one
+3. True
+4. JPG images are designed for handling large color palettes without exorbitantly increasing file size.
+For photos, a PNG file of the same quality (as perceived the human eye) would generally be bigger than an equivalent JPG file.
+
+CSS Basics
+1. In line, style tag, in css file
+2. group things
+3. end line of code
+4. /* comment */
+5. p, h2, h1{}
+6. most specefic one will apply, or last one of at same level
+7. messy, can't refer to it again, don't have to do it over and over again, easy to change things
