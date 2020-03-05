@@ -1,0 +1,18 @@
+I am making a website for a club that I am in, Pitt Kindness Cookies. Originally I made it a single page with a 
+menu at the top that had links to jump down to that section further down on the page. I decided I wanted buttons
+instead so I made a new website utilizing framesets. My page has three frames, ( rows of 30%, 5%, and 65%).
+The first frame (30% of the window) has a logo that I designed on GIMP. I used a cookie cartoon from thenounproject.com 
+and two fonts from dafont.com. The sources for these are all listed in my assets.md.
+The second frame (5% of the window) has a menu. There are several links for the pages I am including in my website:
+About Us, Cookie Drop Dates, Get Involved, Mental Health Resources, and Contact Us. When you click these links,
+the page it links to appears in the third window (45%). When the website opens, the default page displayed to 
+the third frame is about-us.html. 
+Somethings that still need worked on are the general asthetics of the website. The background is currently pretty bland
+and the menu needs spaced out. I might change the links to buttons to give a better look. If i stick with links, they need 
+spaced out better and I would like to change the colors and make it so the color does not chnage after its been pressed.
+The fonts on the webpage are pretty basic and still in the normal black color. I would like to make them more pleasing 
+to the eye.
+I also need to add much of the actual content to the page. This will include writing up a page about the details of the club
+and what we do, researching and linking to the mental health resources on and off campus. I also want to look up how to 
+make a link to email to a specefic email account - that I still need to make. I did it once in my ENGR 15 class and think it 
+would be a nice touch to my website.
