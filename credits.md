@@ -10,7 +10,10 @@ https://www.dafont.com/champagne-limousines.font
 CC-NC
 
 Cookie image for logo:
-cookie 
-By Andrejs Kirma, LV 
+cookie
+By Andrejs Kirma, LV
 https://thenounproject.com/search/?q=cookie&i=2526180
 CC-BY
+(logo created by me on GIMP)
+
+All other photos taken from the Pitt Kindness Cookies instagram page
