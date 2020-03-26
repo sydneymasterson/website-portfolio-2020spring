@@ -1,1 +1,3 @@
 Welcome to the (not at all official) Pitt Kindness Cookies website! Maybe you've gotten cookies from us before while studying at Hillman, or maybe this is your first time hearing about us. Either way, this is a great place for you to learn about who we are, what we do, and how to get involved. More than anything, Kindness Cookies is here to advocate for mental health on campus and start a conversation about the all-to-real issue. Because of this, be sure to check out the "resources" page in order to find out more about the mental health resources both on and off campus.
+
+My website in in the Pitt Kindness Cookies folder and my main page is index.html so open that one in your browser :)
