@@ -2,10 +2,17 @@
 
 body {
   display: grid;
-  grid-template-rows: .5fr .25fr 1fr;
   margin: 0;
   padding: -5px;
   background-color: lightskyblue;
+}
+
+.largecontent{
+  grid-template-rows: .5fr .25fr 1fr;
+}
+
+.smallcontent{
+  grid-template-rows: .5fr .25fr 1fr;
 }
 
 header {
